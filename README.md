@@ -46,4 +46,24 @@ Each spiral folder includes:
 - 📓 Jupyter Notebooks (concepts + practice)
 - 📊 Mini projects with real datasets
 - 📝 README file describing the work
+  
+---
+
+## ✨ Follow My Journey
+
+Stay tuned as I upload every day’s work, project files, and learning logs.  
+Feel free to use this structure for your own learning too!
+
+---
+
+## 📬 Contact
+
+If you want to collaborate or ask questions:
+
+- 📧 Email: fatima.datasciencelab@gmail.com
+- 💼 GitHub: [@fatima-datasciencelab](https://github.com/fatima-datasciencelab)
+
+---
+
+*“Small consistent steps create massive results — and I'm taking mine through spirals!”* 🌱  
 
