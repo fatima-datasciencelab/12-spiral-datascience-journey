@@ -15,6 +15,7 @@ To build a strong foundation in Python through structured spirals — first theo
 - Python
 - Netflix Dataset (CSV)
 
+---
 
 ## 📅 Day 2 Summary
 
@@ -40,4 +41,5 @@ To build a strong foundation in Python through structured spirals — first theo
 - Learn to control flow using loops and conditions
 - Understand reusable code with functions
 - Practice real dataset filtering and basic insights
+
 
