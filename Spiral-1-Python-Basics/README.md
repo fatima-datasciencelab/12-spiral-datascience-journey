@@ -1,4 +1,7 @@
-# Spiral 1: Python Basics
+# 📘 Spiral 1 – Python Basics
+
+This folder contains my first spiral of learning in the 12-Spiral Data Science Journey.  
+In Spiral 1, I focused on building a strong base in Python and worked on the Netflix dataset.
 
 ## 📅 Day 1 Notebooks:
 - `Spiral-1-Day-1-Python.ipynb` → Python theory (print, variables)
@@ -11,4 +14,30 @@ To build a strong foundation in Python through structured spirals — first theo
 - Jupyter Notebook
 - Python
 - Netflix Dataset (CSV)
+
+
+## 📅 Day 2 Summary
+
+### 🧠 Topics Covered:
+- if-else statements
+- for and while loops
+- functions with return and default arguments
+- list operations (append, loop)
+- Netflix dataset filtering and value counts
+
+---
+
+### 📁 Notebooks
+
+| File Name | Description |
+|-----------|-------------|
+| `spiral1_day2_python.ipynb` | Python loops, conditions, functions, lists |
+| `spiral1_day2_netflix.ipynb` | Netflix data filtering, rating analysis, country counts |
+
+---
+
+## 🎯 Goal of Day 2:
+- Learn to control flow using loops and conditions
+- Understand reusable code with functions
+- Practice real dataset filtering and basic insights
 
