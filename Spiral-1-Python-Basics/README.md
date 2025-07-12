@@ -42,4 +42,23 @@ To build a strong foundation in Python through structured spirals — first theo
 - Understand reusable code with functions
 - Practice real dataset filtering and basic insights
 
+---
+
+## 📅 Day 3 Summary
+
+### 🧠 Topics Covered:
+- Tuples, Dictionaries
+- File read/write in Python
+- Netflix filtering by country, sorting by year
+- Matplotlib bar plot: release years
+
+---
+
+### 📁 Notebooks
+
+| File Name | Description |
+|-----------|-------------|
+| `spiral1_day3_python.ipynb` | Tuples, dictionaries, file read/write |
+| `spiral1_day3_netflix.ipynb` | Country filters, sorting Netflix dataset |
+| `spiral1_day3_plot.ipynb` | Bar chart of top release years |
 
