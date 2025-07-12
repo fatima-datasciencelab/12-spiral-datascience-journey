@@ -1,64 +1,54 @@
-# 📘 Spiral 1 – Python Basics
+# 📘 Spiral 1 – Data Science Journey with Python & Netflix Dataset
 
-This folder contains my first spiral of learning in the 12-Spiral Data Science Journey.  
-In Spiral 1, I focused on building a strong base in Python and worked on the Netflix dataset.
+## 🔁 Spiral Goal
+Build a solid base in Python + Data Analysis using a real-world Netflix dataset.
 
-## 📅 Day 1 Notebooks:
-- `Spiral-1-Day-1-Python.ipynb` → Python theory (print, variables)
-- `Spiral-1-Day-1-Netflix.ipynb` → Netflix dataset practice using Python basics
+---
 
-## 🎯 Spiral Goal:
-To build a strong foundation in Python through structured spirals — first theory, then real-world dataset practice.
+## ✅ Day-wise Progress
 
-## 📚 Tools Used:
-- Jupyter Notebook
+### 📅 Day 1
+- Python basics: print, variables, data types
+- Netflix CSV loading & preview
+
+### 📅 Day 2
+- Loops (for, while), if-else
+- Functions with return/default arguments
+- List operations
+- Dataset filtering, value_counts
+
+### 📅 Day 3
+- Tuples, Dictionaries
+- File Read/Write
+- Filtering by country, sorting by year
+- Bar chart using Matplotlib
+
+### 📅 Day 4 (Catch-Up)
+- NumPy: arrays, basic stats
+- Pandas: DataFrames, describe(), groupby
+- Graphs: Line, Histogram, Scatter
+- Data Cleaning: Missing values, duplicates, encoding
+
+---
+
+## 🧰 Tools Used
 - Python
+- Jupyter Notebook
+- Pandas, NumPy, Matplotlib
 - Netflix Dataset (CSV)
 
----
-
-## 📅 Day 2 Summary
-
-### 🧠 Topics Covered:
-- if-else statements
-- for and while loops
-- functions with return and default arguments
-- list operations (append, loop)
-- Netflix dataset filtering and value counts
-
----
-
-### 📁 Notebooks
+## 📁 Files
 
 | File Name | Description |
 |-----------|-------------|
-| `spiral1_day2_python.ipynb` | Python loops, conditions, functions, lists |
-| `spiral1_day2_netflix.ipynb` | Netflix data filtering, rating analysis, country counts |
-
----
-
-## 🎯 Goal of Day 2:
-- Learn to control flow using loops and conditions
-- Understand reusable code with functions
-- Practice real dataset filtering and basic insights
-
----
-
-## 📅 Day 3 Summary
-
-### 🧠 Topics Covered:
-- Tuples, Dictionaries
-- File read/write in Python
-- Netflix filtering by country, sorting by year
-- Matplotlib bar plot: release years
-
----
-
-### 📁 Notebooks
-
-| File Name | Description |
-|-----------|-------------|
-| `spiral1_day3_python.ipynb` | Tuples, dictionaries, file read/write |
-| `spiral1_day3_netflix.ipynb` | Country filters, sorting Netflix dataset |
-| `spiral1_day3_plot.ipynb` | Bar chart of top release years |
-
+| `spiral1_day1_python.ipynb` | Python Basics |
+| `spiral1_day1_netflix.ipynb` | Netflix Data Load |
+| `spiral1_day2_python.ipynb` | Loops, Functions |
+| `spiral1_day2_netflix.ipynb` | Dataset Filtering |
+| `spiral1_day3_python.ipynb` | Tuples, Dicts |
+| `spiral1_day3_netflix.ipynb` | Sorting + Filtering |
+| `spiral1_day3_plot.ipynb` | Bar Chart |
+| `spiral1_day4_python_basics.ipynb` | Type Casting & Input, Loop Controls, range(), enumerate() and zip(), String Slicing and Methods, Nested if/else,  List Comprehension, Try/Except, With Open |
+| `spiral1_day4_numpy_pandas.ipynb` | Arrays, Stats |
+| `spiral1_day4_graphs.ipynb` | Line, Histogram, Scatter |
+| `spiral1_day4_cleaning.ipynb` | Cleaning: Missing, Duplicates, Encoding |
