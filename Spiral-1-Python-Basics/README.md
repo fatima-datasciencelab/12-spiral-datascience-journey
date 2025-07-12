@@ -81,3 +81,21 @@ Build a solid base in Python + Data Analysis using a real-world Netflix dataset.
 - Most content is from the US
 - Netflix saw a big content rise after 2015
 
+### 📅 Day 6 – Basic Statistics and Distribution Analysis
+
+#### ✅ Topics Covered:
+- Mean, Median, Mode
+- Variance, Std Dev, Range
+- IQR and Outliers
+- Boxplot and Violin plot
+- Skewness and Kurtosis (brief)
+
+#### 📁 File:
+- `spiral1_day6_statistics_intro.ipynb`
+
+#### 📌 Description:
+Beginner-friendly intro to statistics using movie durations.
+Outlier detection with boxplots, shape visualization with violin plots, and basic statistical measures to understand data distribution.
+
+#### ✅ Tools:
+- Pandas, NumPy, Seaborn, Matplotlib
