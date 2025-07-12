@@ -52,3 +52,32 @@ Build a solid base in Python + Data Analysis using a real-world Netflix dataset.
 | `spiral1_day4_numpy_pandas.ipynb` | Arrays, Stats |
 | `spiral1_day4_graphs.ipynb` | Line, Histogram, Scatter |
 | `spiral1_day4_cleaning.ipynb` | Cleaning: Missing, Duplicates, Encoding |
+
+
+### 📅 Day 5 – Real Dataset Mini Project: Netflix EDA
+
+#### ✅ Goals:
+- Apply Python, Pandas, and Plotting knowledge
+- Clean the dataset and perform mini exploratory analysis
+- Use bar, pie, line, and histogram charts
+
+#### 📁 File:
+- `spiral1_day5_netflix_project.ipynb`
+
+#### 📊 Visualizations:
+- Bar chart: Movie vs TV Show count
+- Horizontal bar: Top 10 countries with most content
+- Line plot: Titles per release year
+- Pie chart: Rating distribution
+- Histogram: Movie duration
+
+#### 🧹 Cleaning Done:
+- Dropped missing directors
+- Removed duplicates
+- Converted duration column to numeric
+
+#### ✅ Insights:
+- Movies are more common than TV shows
+- Most content is from the US
+- Netflix saw a big content rise after 2015
+
