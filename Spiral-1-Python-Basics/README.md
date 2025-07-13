@@ -113,3 +113,18 @@ Outlier detection with boxplots, shape visualization with violin plots, and basi
 
 #### 🎯 Objective:
 Understand how columns are related using correlation, scatter plots and heatmaps.
+
+# 📅 Spiral 1 – Day 8: GroupBy & Aggregation Analysis
+
+## 🔍 Topics Covered:
+- `groupby()`, `value_counts()`, and `agg()`
+- Top countries by content
+- Ratings distribution
+- Movies vs TV Shows trend by year
+- Country-wise content type comparison
+
+## 📁 Notebook:
+- spiral1_day8_groupby_analysis.ipynb
+
+## 🎯 Objective:
+Learn how to analyze grouped and aggregated data to generate real-world insights using Netflix dataset.
