@@ -99,3 +99,17 @@ Outlier detection with boxplots, shape visualization with violin plots, and basi
 
 #### ✅ Tools:
 - Pandas, NumPy, Seaborn, Matplotlib
+
+### 📅 Day 7 – Correlation & Relationships
+
+#### ✅ Topics Covered:
+- Pearson correlation using `corr()`
+- Heatmaps for numeric relation analysis
+- Scatter plots to visualize relationships
+- Bar plot of content count by country
+
+#### 📁 File:
+- `spiral1_day7_correlation.ipynb`
+
+#### 🎯 Objective:
+Understand how columns are related using correlation, scatter plots and heatmaps.
