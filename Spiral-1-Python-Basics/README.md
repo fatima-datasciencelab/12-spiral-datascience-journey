@@ -127,4 +127,19 @@ Understand how columns are related using correlation, scatter plots and heatmaps
 - spiral1_day8_groupby_analysis.ipynb
 
 ## 🎯 Objective:
-Learn how to analyze grouped and aggregated data to generate real-world insights using Netflix dataset.
+Learn how to analyze grouped and aggregated data to generate real-world insights using Netflix dataset
+
+# 📅 Spiral 1 – Day 9: Feature Engineering
+
+## ✅ Topics Covered:
+- Creating new features (is_movie, is_long, decade)
+- Extracting numbers from strings (duration)
+- Handling categorical variables (rating)
+- One-hot encoding
+- Dropping unnecessary columns
+
+## 📁 Notebook:
+- spiral1_day9_feature_engineering.ipynb
+
+## 🎯 Goal:
+To make the dataset machine-learning ready by engineering new features, converting text to numbers, and cleaning the structure.
