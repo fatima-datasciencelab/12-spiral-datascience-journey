@@ -143,3 +143,26 @@ Learn how to analyze grouped and aggregated data to generate real-world insights
 
 ## 🎯 Goal:
 To make the dataset machine-learning ready by engineering new features, converting text to numbers, and cleaning the structure.
+
+# Spiral 1 – Day 10  
+## Netflix Dataset: EDA + Feature Engineering
+
+**Goals:**  
+- Clean the dataset (remove duplicates, fill missing values).  
+- Create new features:  
+  - `is_movie` (Movie vs TV Show)  
+  - `release_decade` (group by decade)  
+  - `content_length` (Short vs Long).  
+- Perform EDA:  
+  - Movies vs TV Shows  
+  - Top 10 content-producing countries  
+  - Content release trends & ratings distribution.  
+- Visualize using **Seaborn & Matplotlib**.  
+- Save cleaned dataset as `netflix_cleaned_day10.csv`.  
+
+**Libraries:** Pandas, Matplotlib, Seaborn  
+
+**How to Run:**  
+```bash
+pip install pandas matplotlib seaborn
+jupyter notebook Spiral_1_Day_10_Netflix_EDA_FeatureEngineering.ipynb
